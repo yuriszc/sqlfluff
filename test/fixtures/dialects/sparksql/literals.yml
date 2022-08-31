@@ -427,4 +427,3 @@ file:
           alias_expression:
             keyword: AS
             naked_identifier: col
-- statement_terminator: ;

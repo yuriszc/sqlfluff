@@ -57,6 +57,4 @@ file:
           expression:
             column_reference:
               naked_identifier: training
-            comparison_operator:
-              raw_comparison_operator: '='
-            numeric_literal: '1'
+
